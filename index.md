@@ -127,7 +127,7 @@ func main() {
 10. Syntax error in file <путь к файлу>: You did not specify the arguments of the function.
 11. Syntax error in file <путь к файлу>: The function/variable <имя> was not found!
 12. Syntax error in file <путь к файлу>: You did not specify the types of arguments during initialization!
-13. You are trying to enlarge the line. What are you smoking?
+13. You try to enlarge the string. What are you smoking?
 
 примечания:
 
