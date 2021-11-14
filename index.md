@@ -124,6 +124,8 @@ func main() {
 11. Syntax error in file <путь к файлу>: The function/variable <имя> was not found!
 12. Syntax error in file <путь к файлу>: You did not specify the types of arguments during initialization!
 13. You are trying to enlarge the line. What are you smoking?
-примечания: 
+
+примечания:
+
 1. 9 ошибка будет вызвана если вы вызовите функцию без скобок.
 2. Если возможная ошибка не была указана пожалуйста укажите автору документации.
